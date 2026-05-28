@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: rgb(14, 11, 233);
     background: background: #020024;
 background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
     margin: 0px;
@@ -8,14 +8,14 @@ background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%,
 }
 
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(237, 239, 241);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(0, 0, 0);
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(235, 235, 235);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
